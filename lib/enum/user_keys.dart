@@ -1,0 +1,4 @@
+enum UserKeys {
+  loggedIn,
+  allUsers,
+}
